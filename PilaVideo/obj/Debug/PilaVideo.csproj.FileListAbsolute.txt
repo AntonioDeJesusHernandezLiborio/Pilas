@@ -1,0 +1,7 @@
+D:\C#\Estructura De Datos\PilaVideo\PilaVideo\bin\Debug\PilaVideo.exe.config
+D:\C#\Estructura De Datos\PilaVideo\PilaVideo\bin\Debug\PilaVideo.exe
+D:\C#\Estructura De Datos\PilaVideo\PilaVideo\bin\Debug\PilaVideo.pdb
+D:\C#\Estructura De Datos\PilaVideo\PilaVideo\obj\Debug\PilaVideo.csprojAssemblyReference.cache
+D:\C#\Estructura De Datos\PilaVideo\PilaVideo\obj\Debug\PilaVideo.csproj.CoreCompileInputs.cache
+D:\C#\Estructura De Datos\PilaVideo\PilaVideo\obj\Debug\PilaVideo.exe
+D:\C#\Estructura De Datos\PilaVideo\PilaVideo\obj\Debug\PilaVideo.pdb
